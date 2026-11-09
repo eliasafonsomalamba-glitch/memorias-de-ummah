@@ -1,2 +1,2 @@
-# memorias-de-ummah
-Memórias de Ummah - Um espaço de conhecimento islâmico.
+# memorias-da-ummah
+Memórias da Ummah - Um espaço de conhecimento islâmico.
